@@ -1,0 +1,100 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+  
+}
+
+section{
+    margin: 20px auto ;
+    display: block;
+    width: 500px; ;
+
+
+}
+
+table{
+    margin: auto;
+}
+
+h5 {
+
+    background-color: gray;
+    color: greenyellow;
+    text-transform: uppercase;
+    border-radius: 20px;
+    border-style: ridge;
+    width: 75px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+
+
+table,
+td,
+th {
+    border: 2px solid rgb(19, 213, 213);
+    border-collapse: collapse;
+    justify-content: center;
+    background-color: gray;
+
+}
+
+th{
+    color: rgb(52, 49, 49);
+}
+
+td{
+    text-align: center;
+}
+
+form {
+    border: 5px blue double;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+div.formD{
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+input.Picture {
+    height: auto;
+    width: auto;
+
+}
+
+section.info{
+    border: 3px dashed red;
+    border-radius: 15px;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+div.parag p{
+    display: block;
+    width: 250px;
+
+}
+
+p.parag1 {
+    text-align: center;
+    margin: auto;
+}
+
+p.parag2 {
+    text-align: left;
+    margin-right: auto;
+}
+
+p.parag3 {
+    text-align: right;
+    margin-left: auto;
+}
