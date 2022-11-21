@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "Oswald";
+    src: url("./font/static/Oswald-Light.ttf");
+
+}
+
+header,
+main {
+    margin: 0px 350px 0px 350px;
+}
+
+body {
+    background-image: url("../layout/images/background.png");
+    font-family: "tahoma";
+    color: #5c5b5b;
+    margin: 0px;
+}
+
+nav {
+    background-color: #B6C920;
+    height: 150px;
+    font-family: "Oswald";
+}
+
+img {
+    height: 150px;
+}
+
+nav ul {
+    list-style-type: none;
+    float: right;
+    margin-top: 50px;
+
+}
+
+nav ul li {
+    display: inline;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+li a {
+
+    font-size: 20.8px;
+    font-weight: 400;
+    color: black;
+}
+
+main {
+    background-color: whitesmoke;
+    display: block;
+    padding: 20px;
+}
+
+section {
+    background-color: whitesmoke;
+    overflow: hidden;
+}
+
+h2.titl {
+    color: #B6C920;
+    font-family: "Oswald";
+    text-transform: uppercase;
+}
+
+section img {
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin-right: 10px;
+}
+
+button {
+    background-color: #B6C920;
+    border: none;
+    float: right;
+    padding: 10px;
+    color: whitesmoke;
+}
+
+footer {
+    text-align: center;
+    font-size: 11px;
+    margin-top: 10px;
+}
+
+.foot {
+    width: 50px;
+    height: 50px;
+}
